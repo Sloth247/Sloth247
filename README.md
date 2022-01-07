@@ -6,8 +6,8 @@
 <a href="https://www.linkedin.com/in/yuko-horita/">
   <img align="left" alt="YukoHorita's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.linkedin.com/in/yuko-horita/">
-  <img align="left" alt="YukoHorita's Frontend Mentor " width="22px" src="https://raw.githubusercontent.com/Sloth247/Sloth247/master/favicon-fem" />
+<a href="https://www.frontendmentor.io/profile/Sloth247">
+  <img align="left" alt="YukoHorita's Frontend Mentor " width="22px" src="https://raw.githubusercontent.com/Sloth247/Sloth247/master/favicon-fem.png" />
 </a>
 
 I'm [Yuko Horita](mywebsite-yukohorita.vercel.app/), a self-taught front-end / web developer 💻 and a full-time mom 🤱. I live in Japan 🗾 now.
