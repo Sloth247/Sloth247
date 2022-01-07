@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**Sloth247/Sloth247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/yuko_webdev">
+  <img align="left" alt="Yuko Horita | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/yuko-horita/">
+  <img align="left" alt="YukoHorita's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.linkedin.com/in/yuko-horita/">
+  <img align="left" alt="YukoHorita's Frontend Mentor " width="22px" src="https://raw.githubusercontent.com/Sloth247/Sloth247/master/favicon-fem" />
+</a>
 
-Here are some ideas to get you started:
+I'm [Yuko Horita](mywebsite-yukohorita.vercel.app/), a self-taught front-end / web developer 💻 and a full-time mom 🤱. I live in Japan 🗾 now.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages & Tools
+
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sloth&hide=css,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=3c6e71&langs_count=3" />
+</a>
