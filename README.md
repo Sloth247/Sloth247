@@ -23,6 +23,6 @@ I'm [Yuko Horita](mywebsite-yukohorita.vercel.app/), a self-taught front-end / w
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/Sloth247/Sloth247">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sloth&hide=css,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=3c6e71&langs_count=3" />
 </a>
