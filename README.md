@@ -23,7 +23,7 @@ I'm [Yuko Horita](https://mywebsite-yukohorita.vercel.app/), a self-taught front
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![](https://img.shields.io/badge/Vercel-ffffff?style=for-the-badge&logo=vercel&logoColor=black)
+![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats
 
