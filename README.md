@@ -13,7 +13,7 @@
 <br />
 <br />
 
-I'm [Yuko Horita](https://yukohorita-dev.vercel.app/), a self-taught front-end / web developer 💻 and a full-time mom 🤱. I currently live in Japan 🗾. Happy Coding!
+I'm [Yuko Horita](https://yukohorita-dev.vercel.app/), a self-taught front-end / web developer 💻 and a full-time mom 🤱. I currently live in Washington State. Happy Coding!
 
 ### Languages & Tools
 
