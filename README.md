@@ -7,7 +7,7 @@
   </a>
 </div>
 
-<img align="right" alt="illustration of web developer" src="./assets/developer.svg" width="500" height="340" />
+<img align="right" alt="illustration of web developer" src="./assets/developer.svg" width="450" height="340" />
 
 ### Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px">, I'm Yuko
 
@@ -31,8 +31,6 @@ I'm [Yuko Horita](https://yuko-h.com/), a detail oriented full-stack developer ð
 ![](https://img.shields.io/badge/MongoDB-fff?style=for-the-badge&logo=MongoDB&logoColor=47A248)
 ![](https://img.shields.io/badge/Git-fff?style=for-the-badge&logo=Git&logoColor=F05032)
 ![](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-<br />
 
 ## &#x1f4c8; GitHub Stats
 
