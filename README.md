@@ -13,7 +13,7 @@
 
 ## About Me:
 
-I'm [Yuko Horita](https://yuko-h.com/), a detail oriented full-stack developer 💻 in WA, United States. I am currently a part of Hiring Our Heroes Military Spouse Fellowship Program candidate.
+I'm [Yuko Horita](https://yuko-h.com/), a detail oriented full-stack developer 💻 in WA, United States. I am currently a candidate in the Hiring Our Heroes Military Spouse Fellowship Program.
 
 ## Languages & Tools
 
