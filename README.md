@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/yuko-horita/">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuko-horita" height="30" width="40" />
   </a>
@@ -9,13 +9,11 @@
 
 ### Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Yuko
 
-<img align="center" alt="illustration of web developer" src="./assets/developer.svg" width="500" height="340" />
+<img align="right" alt="illustration of web developer" src="./assets/developer.svg" width="500" height="340" />
 
 ## About Me:
 
 I'm [Yuko Horita](https://yuko-h.com/), a detail oriented full-stack developer ðŸ’» in WA, United States.
-
-<br />
 
 ## Languages & Tools
 
@@ -51,7 +49,6 @@ I'm [Yuko Horita](https://yuko-h.com/), a detail oriented full-stack developer ð
 ![](https://img.shields.io/badge/Git-fff?style=for-the-badge&logo=Git&logoColor=F05032)
 ![](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<br />
 <br />
 
 ## &#x1f4c8; GitHub Stats
