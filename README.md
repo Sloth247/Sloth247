@@ -1,25 +1,21 @@
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/yuko-horita/">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuko-horita" height="30" width="40" />
   </a>
   <a href="https://www.frontendmentor.io/profile/Sloth247">
-    <img align="left" alt="YukoHorita's Frontend Mentor " width="22px" src="./assets/favicon-fem.png" />
+    <img align="left" alt="YukoHorita's Frontend Mentor " width="40" src="./assets/favicon-fem.png" />
   </a>
 </div>
 
-<br />
-<br />
+### Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Yuko
 
-### Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<br />
-<br />
+<img align="center" alt="illustration of web developer" src="./assets/developer.svg" width="500" height="340" />
 
 ## About Me:
 
 I'm [Yuko Horita](https://yuko-h.com/), a detail oriented full-stack developer ðŸ’» in WA, United States.
 
-<img align="right" alt="illustration of web developer" src="./assets/developer.svg" width="500" height="340" />
+<br />
 
 ## Languages & Tools
 
@@ -27,8 +23,6 @@ I'm [Yuko Horita](https://yuko-h.com/), a detail oriented full-stack developer ð
 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
-
-<br />
 
 ### Frontend Development
 
@@ -39,26 +33,18 @@ I'm [Yuko Horita](https://yuko-h.com/), a detail oriented full-stack developer ð
 ![](https://img.shields.io/badge/Next-fff?style=for-the-badge&logo=Next.js&logoColor=000000)
 ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-<br />
-
 ### Backend Development
 
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=Express&logoColor=white)
 
-<br />
-
 ### BaaS
 
 ![](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white)
 
-<br />
-
 ### Database
 
 ![](https://img.shields.io/badge/MongoDB-fff?style=for-the-badge&logo=MongoDB&logoColor=47A248)
-
-<br />
 
 ### Other Tools
 
